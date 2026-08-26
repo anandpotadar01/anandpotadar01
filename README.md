@@ -29,6 +29,7 @@
 ---
 
 ## 🧠 About Me
+<img align="right" width="280" src="assets/WhatsApp Image 2026-08-26 at 16.05.20.jpeg" style="display:none;"/>
 
 I'm **Anand Potadar**, a **Python Full Stack Developer** from Bengaluru, India, specializing in building scalable, production-grade web applications using **Django REST Framework** and **React.js (Vite)**. My engineering approach centers on clean API architecture, secure authentication systems, and thoughtful frontend-backend integration.
 
