@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-potadar01)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandpotadar49@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandpotadar01)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://anandpotadar01.github.io/)
 
 <br/>
 
